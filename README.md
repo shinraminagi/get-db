@@ -1,8 +1,12 @@
 # Get-db
 
-## Description
+## Description (DEPRECATED)
 
 Get and save Drop-Books.com images.
+
+## DEPRECATED
+
+**Drop-Books is no longer available. So this is useless any longer.**
 
 ## Usage
 
